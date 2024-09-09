@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Games</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Games Online</h1>
+    </header>
+    <main>
+        <section class="resultados"><!--Tag de Seção com classe para editar a formatação no CSS-->
+            <!--Apresentando informações ao usuario-->
+            <input type="text" placeholder="Digite o nome do jogo" id="campo-pesquisa">
+            <button onclick="pesquisar()">Pesquisar</button>
+        </section>
+        <!--Seção para implementar e exibir os resultados-->
+        <section class="resultados-pesquisa" id="resultados-pesquisa">
+        </section>
+    </main>
+    <!--Rodape-->
+    <footer>
+        <p> 2024 - Jogos Populares - Todos os direitos reservados. </p>
+        <p> Entre em contato pelo email: jogosonline@games.com.br</p>
+    </footer>
+    <!--Tag para ligar o dados.js e app.js ao HTML-->
+    <script src="dadosGames.js"></script>
+    <script src="app.js"></script>
+</body>
+
+</html>
