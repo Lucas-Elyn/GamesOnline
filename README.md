@@ -1,5 +1,5 @@
-```markdown
-## **README.md Descontraído para o seu Projeto de Busca de Jogos** 
+
+## **Busca de Jogos Online** 
 
 ###  **O que é esse negócio?**
 
@@ -45,4 +45,3 @@ Se tiver alguma dúvida, pode abrir uma issue aqui no GitHub ou me mandar um e-m
 * **Crie um README.md claro e conciso:** O objetivo do README.md é explicar o seu projeto de forma clara e concisa, para que qualquer pessoa possa entender como ele funciona.
 
 **Com este README.md, você terá um guia completo e divertido para o seu projeto no GitHub!**
-```
